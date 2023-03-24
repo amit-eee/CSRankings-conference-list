@@ -1,0 +1,33 @@
+AI:
+  Artificial Intelligence: ACM SIGAI, AAAI
+  Computer Vision: CVF, CVPR, ECCV, ICCV
+  Machine Learning: ACM SIGKDD, ICLR, IMLS, NeurIPS/NIPS
+  Natural Language Processing: ACL, EMNLP, NAACL
+  The Web & Information Retrieval: ACM SIGIR, SIGWEB, WWW
+  
+Systems:
+  Computer Architecture: ACM SIGARCH, ASPLOS, ISCA, MICRO, HPCA
+  Computer Networks: ACM SIGCOMM, NSDI
+  Computer Security: ACM SIGSAC, IEEE S&P, USENIX, CCS, NDSS
+  Databases: ACM SIGMOD, VLDB, ICDE, PODS
+  Design Automation: ACM SIGDA, DAC, ICCAD
+  Embedded & Real-Time Systems: ACM SIGBED, EMSOFT, RTAS, RTSS
+  High-Performance Computing: ACM SIGHPC, HPDC, ICS, SC
+  Mobile Computing: ACM SIGMOBILE, MobiCom, MobiSys, SenSys
+  Measurement & Performance Analysis: ACM SIGMETRICS, IMC
+  Operating Systems: ACM SIGOPS, OSDI, SOSP, EuroSys, FAST, USENIX ATC
+  Programming Languages: ACM SIGPLAN, PLDI, POPL, ICFP, OOPSLA
+  Software Engineering: ACM SIGSOFT, FSE, ICSE, ASE, ISSTA
+  
+Theory:
+  Algorithms & Complexity: ACM SIGACT, IEEE TCMF, FOCS, SODA, STOC
+  Cryptography: IACR, CRYPTO, EuroCrypt
+  Logic & Verification: ACM SIGLOG, CAV, LICS
+  
+Interdisciplinary Areas:
+  Comp. Bio & Bioinformatics: ACM SIGBIO, ISMB, RECOMB
+  Computer Graphics: ACM SIGGRAPH, SIGGRAPH Asia, EUROGRAPHICS
+  Economics & Computation: ACM SIGECOM, EC, WINE
+  Human-Computer Interaction: ACM SIGCHI, CHI, UbiComp/Pervasive/IMWUT, UIST
+  Robotics: IEEE RAS, ICRA, IROS, RSS
+  Visualization: IEEE VGTC, VIS, VR
